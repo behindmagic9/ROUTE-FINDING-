@@ -6,7 +6,9 @@ All this is done using c++ and stl libraries .
 
 
 for use : 
-step 1- > simple build with g++ command like : 
+
+-- step 1- > simple build with g++ command like : 
   > g++ metro.cpp -o a.out
-step 2 -> ./a.out
+
+-- step 2 -> ./a.out
 
